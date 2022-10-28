@@ -1,0 +1,14 @@
+body{
+    background-color: #83414183;
+}
+hr{
+    width: 30%;
+    border: dotted;border-width: 5px;
+    color: rgba(90, 20, 20, 0.719));
+    border-top: none;
+    border-radius: 50;
+
+}
+table{
+    border-width: 40px;
+}
